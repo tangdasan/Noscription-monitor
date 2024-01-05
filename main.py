@@ -6,8 +6,8 @@ import sqlite3
 
 # URL列表
 urls = [
-    "https://api-worker.noscription.org/indexer/balance?npub=npub143htynn67ffpr8t0hsldhs664z45nefufvppnc27mt86mkdk4raqlwwy72",
-    "https://api-worker.noscription.org/indexer/balance?npub=npub1t0zucp47e5nrqng4lnqcdla4jqykrj74a0dhc2dg0ze0m4knfeuq4wsajt",
+    "https://api-worker.noscription.org/indexer/balance?npub=npub143htynnt0hsldhs664z45nefufvppnc27mt86mkdk4raqlwwy72",
+    "https://api-worker.noscription.org/indexer/balance?npub=npub1t0zucp47enqcdla4jqykrj74a0dhc2dg0ze0m4knfeuq4wsajt",
 ]
 
 def create_table():
